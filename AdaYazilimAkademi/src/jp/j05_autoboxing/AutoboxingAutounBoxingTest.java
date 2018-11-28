@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jp_05_autoboxing;
+package jp.j05_autoboxing;
 
 /**
  *

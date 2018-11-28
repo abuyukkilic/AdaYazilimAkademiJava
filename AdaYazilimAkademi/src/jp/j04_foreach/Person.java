@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jp_04_foreach;
+package jp.j04_foreach;
 
 /**
  *

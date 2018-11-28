@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jp_01_varArgs;
+package jp.j01_varArgs;
 
 /**
  *

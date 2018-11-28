@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jp_06_accessModifiers.package2;
+package jp.j06_accessModifiers.package2;
 
-import jp_06_accessModifiers.package1.Class1;
+import jp.j06_accessModifiers.package1.Class1;
 
 /**
  *

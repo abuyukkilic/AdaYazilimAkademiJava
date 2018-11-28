@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jp_06_accessModifiers.test;
+package jp.j06_accessModifiers.test;
 
-import jp_06_accessModifiers.package1.Class2;
-import jp_06_accessModifiers.package2.Class3;
-import jp_06_accessModifiers.package2.Class4;
+import jp.j06_accessModifiers.package1.Class2;
+import jp.j06_accessModifiers.package2.Class3;
+import jp.j06_accessModifiers.package2.Class4;
 
 /**
  *

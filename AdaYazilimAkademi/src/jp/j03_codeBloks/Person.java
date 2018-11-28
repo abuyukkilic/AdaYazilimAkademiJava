@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jp_03_codeBloks;
+package jp.j03_codeBloks;
 
 /**
  *
